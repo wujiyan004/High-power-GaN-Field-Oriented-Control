@@ -181,14 +181,14 @@ LADRC线自抗扰控制  MTPA最大转矩比控制 FW弱磁控制
 > *「原理图。PCB。你的硬件一步到位。」*
 > *"Schematic. PCB. Your hardware runs out of the box."*
 
-<div align="center"><img src="image/1.jpg" width=50% /></div>
-<div align="center"><img src="image/2.jpg" width=50% /></div>
-<div align="center"><img src="image/3.jpg" width=50% /></div>
-<div align="center"><img src="image/4.jpg" width=50% /></div>
+<div align="center"><img src="image/1.jpg" width=100% /></div>
+<div align="center"><img src="image/2.jpg" width=100% /></div>
+<div align="center"><img src="image/3.jpg" width=100% /></div>
+<div align="center"><img src="image/4.jpg" width=100% /></div>
 
-<div align="center"><img src="image/ee.png" width=50% /></div>
-<div align="center"><img src="image/qq.png" width=50% /></div>
-<div align="center"><img src="image/tt.png" width=50% /></div>
+<div align="center"><img src="image/ee.png" width=100% /></div>
+<div align="center"><img src="image/qq.png" width=100% /></div>
+<div align="center"><img src="image/tt.png" width=100% /></div>
 
 ---
 
